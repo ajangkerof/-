@@ -6,8 +6,18 @@
 </template>
 
 <script>
+  import {mapActions} from "vuex"
   import footerList from "./components/footerList/footerList.vue"
+
   export default {
+    mounted () {
+      // this.$store.dispatch('getAddress')
+      this.getAddress()
+      this.getUserInfoAsync()
+    },
+    methods: {
+      ...mapActions(['getAddress', 'getUserInfoAsync'])
+    },
     components: {
       footerList
     }

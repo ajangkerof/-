@@ -31,10 +31,12 @@
       font-size 18px
       color #82b5d4
     .head_search
+      position absolute
       left 5%
       transform translateY(-50%)
       top 50%
       font-size 30px
+      color #82b5d4
     .head_where
       left 33%
       transform translateY(-50%)
@@ -44,5 +46,10 @@
       left 40%
       width 100px
     .head_login
-      right 5%
+      span
+        right 5%
+      .icon-wode
+        font-size 30px
+        top 20%
+
 </style>

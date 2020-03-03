@@ -1,238 +1,79 @@
 <template>
   <div class="list_container">
-    <ul>
-      <li>
+    <ul v-if="business.length">
+      <li v-for="(busines, index) in business" :key="index">
         <a href="#">
           <div class="list_container_left">
-            <img src="./images/shop/1.jpg" class="left_img">
+            <img :src="busines.image_path" class="left_img">
           </div>
           <div class="list_container_center">
             <div class="center_header">
-              <h4>中百仓储</h4>
+              <h4>{{busines.name}}</h4>
               <ul>
-                <li>保</li>
-                <li>消</li>
-                <li>准</li>
+                <li v-for="(support, index) in busines.supports" :key="index">
+                  {{support.icon_name}}
+                </li>
               </ul>
             </div>
             <div class="center_body">
               <div class="body_left">
-                <div class="star star-24">
-                  <span class="star_item on"></span>
-                  <span class="star_item on"></span>
-                  <span class="star_item on"></span>
-                  <span class="star_item half"></span>
-                  <span class="star_item off"></span>
-                </div>
+                <star :score="busines.rating" :size="24"/>
                 <div class="score">
-                  <span>3.6</span>
+                  <span>{{busines.rating}}</span>
                 </div>
                 <div class="sales">
-                  <span>月销售1000</span>
+                  <span>月销售{{busines.rating_count}}</span>
                 </div>
               </div>
               <div class="body_right">
-                <span class="delivery">疫情直送</span>
+                <span class="delivery">{{busines.delivery_text}}</span>
               </div>
             </div>
             <div class="center_footer">
               <div class="regulations">
-                <span>¥20起送</span>
+                <span>{{busines.distribution.initial}}</span>
                 <span>/</span>
-                <span>配送费约¥5</span>
-              </div>
-            </div>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <div class="list_container_left">
-            <img src="./images/shop/2.jpg" class="left_img">
-          </div>
-          <div class="list_container_center">
-            <div class="center_header">
-              <h4>周杰伦</h4>
-              <ul>
-                <li>保</li>
-                <li>消</li>
-                <li>准</li>
-              </ul>
-            </div>
-            <div class="center_body">
-              <div class="body_left">
-                <div class="star star-24">
-                  <span class="star_item on"></span>
-                  <span class="star_item on"></span>
-                  <span class="star_item on"></span>
-                  <span class="star_item half"></span>
-                  <span class="star_item off"></span>
-                </div>
-                <div class="score">
-                  <span>3.6</span>
-                </div>
-                <div class="sales">
-                  <span>月销售1000</span>
-                </div>
-              </div>
-              <div class="body_right">
-                <span class="delivery">疫情直送</span>
-              </div>
-            </div>
-            <div class="center_footer">
-              <div class="regulations">
-                <span>¥20起送</span>
-                <span>/</span>
-                <span>配送费约¥5</span>
-              </div>
-            </div>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <div class="list_container_left">
-            <img src="./images/shop/3.jpg" class="left_img">
-          </div>
-          <div class="list_container_center">
-            <div class="center_header">
-              <h4>周杰伦</h4>
-              <ul>
-                <li>保</li>
-                <li>消</li>
-                <li>准</li>
-              </ul>
-            </div>
-            <div class="center_body">
-              <div class="body_left">
-                <div class="star star-24">
-                  <span class="star_item on"></span>
-                  <span class="star_item on"></span>
-                  <span class="star_item on"></span>
-                  <span class="star_item half"></span>
-                  <span class="star_item off"></span>
-                </div>
-                <div class="score">
-                  <span>3.6</span>
-                </div>
-                <div class="sales">
-                  <span>月销售1000</span>
-                </div>
-              </div>
-              <div class="body_right">
-                <span class="delivery">疫情直送</span>
-              </div>
-            </div>
-            <div class="center_footer">
-              <div class="regulations">
-                <span>¥20起送</span>
-                <span>/</span>
-                <span>配送费约¥5</span>
-              </div>
-            </div>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <div class="list_container_left">
-            <img src="./images/shop/4.jpg" class="left_img">
-          </div>
-          <div class="list_container_center">
-            <div class="center_header">
-              <h4>周杰伦</h4>
-              <ul>
-                <li>保</li>
-                <li>消</li>
-                <li>准</li>
-              </ul>
-            </div>
-            <div class="center_body">
-              <div class="body_left">
-                <div class="star star-24">
-                  <span class="star_item on"></span>
-                  <span class="star_item on"></span>
-                  <span class="star_item on"></span>
-                  <span class="star_item half"></span>
-                  <span class="star_item off"></span>
-                </div>
-                <div class="score">
-                  <span>3.6</span>
-                </div>
-                <div class="sales">
-                  <span>月销售1000</span>
-                </div>
-              </div>
-              <div class="body_right">
-                <span class="delivery">疫情直送</span>
-              </div>
-            </div>
-            <div class="center_footer">
-              <div class="regulations">
-                <span>¥20起送</span>
-                <span>/</span>
-                <span>配送费约¥5</span>
-              </div>
-            </div>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <div class="list_container_left">
-            <img src="./images/shop/2.jpg" class="left_img">
-          </div>
-          <div class="list_container_center">
-            <div class="center_header">
-              <h4>周杰伦</h4>
-              <ul>
-                <li>保</li>
-                <li>消</li>
-                <li>准</li>
-              </ul>
-            </div>
-            <div class="center_body">
-              <div class="body_left">
-                <div class="star star-24">
-                  <span class="star_item on"></span>
-                  <span class="star_item on"></span>
-                  <span class="star_item on"></span>
-                  <span class="star_item half"></span>
-                  <span class="star_item off"></span>
-                </div>
-                <div class="score">
-                  <span>3.6</span>
-                </div>
-                <div class="sales">
-                  <span>月销售1000</span>
-                </div>
-              </div>
-              <div class="body_right">
-                <span class="delivery">疫情直送</span>
-              </div>
-            </div>
-            <div class="center_footer">
-              <div class="regulations">
-                <span>¥20起送</span>
-                <span>/</span>
-                <span>配送费约¥5</span>
+                <span>{{busines.distribution.tips}}</span>
               </div>
             </div>
           </div>
         </a>
       </li>
     </ul>
+    <ul v-else>
+      <li v-for="item in 6">
+        <img src="./images/shop_back.svg" alt="加载时背景">
+      </li>
+    </ul>
   </div>
 </template>
 
 <script>
-    export default {}
+
+  import {mapState} from "vuex"
+  /*评分组件star*/
+  import star from "../star/star.vue"
+
+  export default {
+    data () {
+      return {
+
+      }
+    },
+    computed: {
+      ...mapState(['business'])
+    },
+    components: {
+      star
+    }
+  }
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus">
   @import "../../common/stylus/mixins.styl"
   .list_container
     >ul
+      margin-bottom 50px
       >li
         border-bottom 1px solid #f1f1f1
         > a
@@ -247,8 +88,8 @@
             box-sizing border-box
             padding 10px
             img
-              width 100%
-              height 100%
+              width 71px
+              height 71px
               display block
           .list_container_center
             float: right
@@ -289,55 +130,6 @@
               clearFix()
               .body_left
                 float left
-                .star
-                  float left
-                  font-size 0
-                  .star_item
-                    display inline-block
-                    background-repeat no-repeat
-                  &.star-48
-                    .star_item
-                      width 20px
-                      height 20px
-                      margin-right 22px
-                      background-size 20px 20px
-                      &:last-child
-                        margin-right: 0
-                      &.on
-                        bg-image('./images/stars/star48_on')
-                      &.half
-                        bg-image('./images/stars/star48_half')
-                      &.off
-                        bg-image('./images/stars/star48_off')
-                  &.star-36
-                    .star_item
-                      width 15px
-                      height 15px
-                      margin-right 6px
-                      background-size 15px 15px
-                      &:last-child
-                        margin-right 0
-                      &.on
-                        bg-image('./images/stars/star36_on')
-                      &.half
-                        bg-image('./images/stars/star36_half')
-                      &.off
-                        bg-image('./images/stars/star36_off')
-                  &.star-24
-                    .star_item
-                      width 10px
-                      height 10px
-                      margin-top 1px
-                      margin-right 3px
-                      background-size 10px 10px
-                      &:last-child
-                        margin-right 5px
-                      &.on
-                        bg-image('./images/stars/star24_on')
-                      &.half
-                        bg-image('./images/stars/star24_half')
-                      &.off
-                        bg-image('./images/stars/star24_off')
                 .score
                   float left
                   font-size 12px
