@@ -3,7 +3,7 @@
       <!--头部搜索定位-->
       <HeaderTop :title="address.name">
         <router-link class="iconfont icon-chazhao head_search" slot="head_search" to="/search"></router-link>
-        <router-link class="head_login" slot="head_login" :to="userInfo._id ? '/userInfo' : '/login'">
+        <router-link class="head_login" slot="head_login" :to="userInfo._id ? '/userInfo?userId='+userInfo._id : '/login'">
           <span class="iconfont icon-wode" v-if="userInfo._id"></span>
           <span v-else>登录 | 注册</span>
         </router-link>
@@ -13,7 +13,7 @@
         <div class="swiper-container" v-if="goodListArr.length">
           <div class="swiper-wrapper">
             <div class="swiper-slide" v-for="(goodList, index) in goodListArr" :key="index">
-              <a href="#" class="item_type" v-for="(good, index) in goodList" :key="index">
+              <a class="item_type" v-for="(good, index) in goodList" :key="index" @click="$router.push('/shop')">
                 <div class="item_type_container">
                   <img :src="baseImageUrl + good.image_url">
                 </div>
@@ -24,6 +24,7 @@
           <!-- 如果需要分页器 -->
           <div class="swiper-pagination"></div>
         </div>
+        <!-- 数据还没出来时，显示此svg背景图片 -->
         <img src="./images/msite_back.svg" alt="加载时背景" v-else>
       </div>
       <!--商家列表-->
@@ -95,6 +96,9 @@
           // 创建一个Swiper实例对象，来实现轮播
           var mySwiper = new Swiper ('.swiper-container', {
             loop: true, // 循环模式选项
+            effect : 'flip', // 切换效果
+            preventClicksPropagation: true, // 阻止click冒泡。拖动Swiper时阻止click事件
+
 
             // 如果需要分页器
             pagination: {

@@ -1,8 +1,8 @@
 <template>
   <div class="list_container">
     <ul v-if="business.length">
-      <li v-for="(busines, index) in business" :key="index">
-        <a href="#">
+      <li v-for="(busines, index) in business" :key="index" @click="toShop(busines._id)">
+        <a>
           <div class="list_container_left">
             <img :src="busines.image_path" class="left_img">
           </div>
@@ -40,6 +40,7 @@
         </a>
       </li>
     </ul>
+    <!-- 数据还没出来时，显示此svg背景图片 -->
     <ul v-else>
       <li v-for="item in 6">
         <img src="./images/shop_back.svg" alt="加载时背景">
@@ -53,18 +54,20 @@
   import {mapState} from "vuex"
   /*评分组件star*/
   import star from "../star/star.vue"
-
   export default {
-    data () {
-      return {
-
-      }
-    },
     computed: {
       ...mapState(['business'])
     },
     components: {
       star
+    },
+    methods: {
+      // 去详情页面
+      toShop (id) {
+        // 跳转到详情页面
+        // this.$router.push({path: '/shop', query: {id: id}}) 下面方法也可以传递参数
+        this.$router.push('/shop?id='+id)
+      }
     }
   }
 </script>

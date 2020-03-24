@@ -1,13 +1,16 @@
 <template>
   <div class="login_container">
     <div class="login">
+      <!--介绍-->
       <div class="login_header">
         <h2 class="login_logo">疫情快送</h2>
         <div class="login_header_title">
           <a href="javascript:" :class="{on: loginWay}" @click="loginWay = true">短信登录</a>
-          <a href="javascript:" :class="{on: !loginWay}" @click="loginWay = false">密码登录</a>
+          <a href="javascript:" :class="{on: !loginWay}" @click="pwdLogin">密码登录</a>
         </div>
       </div>
+
+      <!--登陆-->
       <div class="login_content">
         <form>
           <!--短信登录-->
@@ -41,13 +44,15 @@
             </div>
             <div class="login_message">
               <input type="text" maxlength="11" placeholder="验证码" v-model="captcha">
-              <img class="get_verification" src="http://localhost:4000/captcha" @click="newCaptcha" ref="captcha">
+              <img class="get_verification" :src="captchaSrc" @click="newCaptcha" ref="captcha">
             </div>
           </div>
           <button class="login_submit" @click.prevent="login">登录</button>
         </form>
         <a href="javascript:" class="about_us">关于我们</a>
       </div>
+
+      <!--回退-->
       <a href="javascript:" class="go_back" @click="$router.back()">
         <span class="iconfont icon-zuo"></span>
       </a>
@@ -58,7 +63,7 @@
 
 <script>
   import AlertTip from "../../components/AlertTip/AlertTip.vue"
-  import {reqSendCode, reqpwLogin, reqSmsLogin} from "../../api/index.js"
+  import {reqSendCode, reqPwLogin, reqSmsLogin, reqOneCode} from "../../api/index.js"
   export default {
     data () {
       return {
@@ -71,6 +76,7 @@
         name: '', // 用户名
         pwd: '', // 密码
         captcha: '', // 图形验证码
+        captchaSrc: '',
         alertText: '', // 弹框提示内容
         showTip: false // 是否显示弹框
       }
@@ -85,6 +91,11 @@
       }
     },
     methods: {
+      // 切换为密码登录
+      pwdLogin () {
+        this.loginWay = false
+        this.captchaSrc = 'http://localhost:4000/user/captcha?time=' + Date.now()
+      },
       // 发送验证码
       async getCode () {
         // 如果没有定时器就启动
@@ -154,7 +165,7 @@
             return
           }
           // 发送ajax请求验证登录
-          result = await reqpwLogin({name, pwd, captcha})
+          result = await reqPwLogin({name, pwd, captcha})
         }
 
         // 点击登录停止倒计时
@@ -189,7 +200,7 @@
       // 刷新图形验证码
       newCaptcha () {
         // 每次刷新事件，从而达到切换图片效果
-        this.$refs.captcha.src = "http://localhost:4000/captcha?time=" + Date.now()
+        this.$refs.captcha.src = "http://localhost:4000/user/captcha?time=" + Date.now()
       }
 
     },
@@ -249,7 +260,7 @@
               outline 0
               font 400 14px Arial
               &:focus
-                border 1px solid #82b5d4
+                box-shadow 0 0 8px 3px #dde
             .login_message
               position relative
               margin-top 16px
@@ -257,6 +268,7 @@
               font-size 14px
               background #fff
               .get_verification
+                height 40px
                 position absolute
                 top 50%
                 right 10px
@@ -264,7 +276,7 @@
                 border 0
                 color #ccc
                 font-size 14px
-                background transparent
+                background #fff
               .phoneClass
                 color black
               .clickClass

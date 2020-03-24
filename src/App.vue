@@ -13,6 +13,7 @@
     mounted () {
       // this.$store.dispatch('getAddress')
       this.getAddress()
+      // 刷新页面时保持登录
       this.getUserInfoAsync()
     },
     methods: {

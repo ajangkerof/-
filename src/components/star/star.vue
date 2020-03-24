@@ -23,13 +23,13 @@
         }
 
         /*添加0/1个'half'到数组中*/
-        const halfNum = (score % 1)*10
+        const halfNum = score*10 - onNum*10
         if (halfNum > 4) {
           starArr.push('half')
         }
 
         /*添加n个'off'到数组中*/
-        if (starArr.length < 5) {
+        while (starArr.length < 5) {
           starArr.push('off')
         }
 

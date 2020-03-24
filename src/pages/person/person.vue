@@ -1,12 +1,12 @@
 <template>
     <div class="person">
       <div class="person_my">
-        <router-link :to="userInfo._id ? '/userInfo' : '/login'" class="person_link">
+        <router-link :to="userInfo._id ? '/userInfo?userId='+userInfo._id : '/login'" class="person_link">
           <div class="person_img">
             <span class="iconfont icon-wode"></span>
           </div>
           <div class="person_info">
-            <p class="person_login" v-if="!userInfo.phone">{{userInfo.name || "登录 | 注册"}}</p>
+            <p class="person_login">{{userInfo.name || "登录 | 注册"}}</p>
             <p>
               <span class="iconfont icon-dianhua"></span>
               <span class="person_error">{{userInfo.phone || "手机号暂未绑定"}}</span>
@@ -40,7 +40,7 @@
         </ul>
       </div>
       <div class="person_menu border-1px">
-        <a href='javascript:' class="my_order">
+        <a href='javascript:' class="my_order" @click="$router.push('/order')">
           <span class="iconfont icon-dingdan"></span>
           <div class="order_title">
             <span>我的订单</span>

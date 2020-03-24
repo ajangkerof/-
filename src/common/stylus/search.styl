@@ -23,9 +23,61 @@
       background-color #82b5d4
       color white
       outline none
+  .search_list
+    width 100%
+    .list_ul
+      width 100%
+      .list_li
+        width 95%
+        height 50px
+        margin 15px 10px 0 10px
+        padding-bottom 10px
+        background-color #ddd
+        box-shadow 0 0 8px 1px #ccd
+        .item_left, .item_right
+          margin 5px 0 0 5px
+          float left
+        .item_right
+          width 80%
+          .right_top, .right_middle, .right_bottom
+            height 33%
+            margin-left 5px
+            margin-bottom 5px
+            font-size 12px
+          .right_top
+            margin-top 5px
+
+  .no_search
+    width 100%
+    height 300px
+    position: relative
+    z-index 10
+    .content
+      width 96%
+      height 100px
+      text-align center
+      line-height 100px
+      margin-top 2%
+      margin-left 2%
+      border-radius 10px
+      background-color #daa
+      box-shadow 0 0 8px 2px #ccd
+      span
+        font-size 18px
+      .icon-bumanyi
+        font-size 24px
+        color wheat
+      .no_search_text
+        font-weight bold
+        color rgba(0, 0, 0, 0.7)
   .search_hot
     height 100px
-    margin-top 20px
+    margin-top 65px
+    margin-left 10px
+    position absolute
+    left 0
+    top 0
+    z-index 1
     .hot_title
       display block
       margin-bottom 5px

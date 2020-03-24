@@ -1,0 +1,1365 @@
+{
+  "detail": {
+    "name": "悦活里",
+    "description": "疫情专送",
+    "deliveryTime": 28,
+    "score": 4.9,
+    "serviceScore": 4.9,
+    "foodScore": 4.9,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "ratingCount": 24,
+    "sellCount": 6666,
+    "distance": "1000m",
+    "bulletin": "“悦活里”是以满足现代都市“快生活VS慢生活”的生活方式，以“绿色+科技”为主题，整合生活超市、精致餐饮、儿童娱乐、生活精品、无人便利店等多种业态的新型智慧生活广场",
+    "supports": [
+      {
+        "type": 0,
+        "name": "首单",
+        "content": "新用户下单立减17元(不与其它活动同享)"
+      },
+      {
+        "type": 1,
+        "name": "满减",
+        "content": "满35减19，满65减35"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减19.5元】欢乐蔬菜套餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减29元】家庭日用品套餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减16.5元】疫情外地支援蔬菜套餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减15】经典水果套餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减11.95】新鲜猪肉套餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减66.6】家庭周需齐全套餐"
+      }
+    ],
+    "avatar": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3131037446,136129249&fm=26&gp=0.jpg",
+    "bgImg": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3919978363,455670741&fm=26&gp=0.jpg",
+    "pics": [
+      "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3392194131,999668692&fm=26&gp=0.jpg",
+      "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=703606178,2676241286&fm=26&gp=0.jpg",
+      "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1180974509,2893606634&fm=26&gp=0.jpg",
+      "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2685256313,1121841700&fm=26&gp=0.jpg",
+      "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4093945712,77876223&fm=26&gp=0.jpg"
+    ],
+    "category": "生鲜蔬菜超市",
+    "phone": "18501083744",
+    "address": "武汉工程大学",
+    "workTime": "09:35-22:00"
+  },
+  "goods": [
+    {
+      "name": "优惠",
+      "icon": "https://fuss10.elemecdn.com/b/91/8cf4f67e0e8223931cd595dc932fepng.png",
+      "foods": [
+        {
+          "name": "大白菜",
+          "price": 5,
+          "oldPrice": 8,
+          "description": "白菜是一种营养极其丰富的大众化蔬菜，也是人体所需微量元素的宝库",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "白菜是一种营养极其丰富的大众化蔬菜，也是人体所需微量元素的宝库",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "白菜很新鲜",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2454699556,1645943563&fm=26&gp=0.jpg",
+          "image": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2454699556,1645943563&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "包菜",
+          "price": 14,
+          "oldPrice": 36,
+          "description": "中国东北地区俗称“大头菜”，云南俗称“莲花白”",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "中国东北地区俗称“大头菜”，云南俗称“莲花白”",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "包菜很好吃，下次还来买",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584347553792&di=df41e99b9928cfe255e61067121d1a1a&imgtype=0&src=http%3A%2F%2Fimage.suning.cn%2Fuimg%2Fsop%2Fcommodity%2F161316206192523466340070_x.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584347553792&di=df41e99b9928cfe255e61067121d1a1a&imgtype=0&src=http%3A%2F%2Fimage.suning.cn%2Fuimg%2Fsop%2Fcommodity%2F161316206192523466340070_x.jpg"
+        },
+        {
+          "name": "黄瓜",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "黄瓜为中国各地夏季主要菜蔬之一",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "黄瓜为中国各地夏季主要菜蔬之一",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1169484574,1197352642&fm=26&gp=0.jpg",
+          "image": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1169484574,1197352642&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "白萝卜",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "萝卜含有木质素，能提高巨噬细胞的活力，吞噬癌细胞",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "萝卜含有木质素，能提高巨噬细胞的活力，吞噬癌细胞",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1212264499,2433977834&fm=26&gp=0.jpg",
+          "image": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1212264499,2433977834&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "胡萝卜",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "胡萝卜的营养成分极为丰富",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "胡萝卜的营养成分极为丰富",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=347502314,1267882636&fm=11&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=347502314,1267882636&fm=11&gp=0.jpg"
+        },
+        {
+          "name": "五花肉",
+          "price": 30,
+          "oldPrice": "40",
+          "description": "猪的腹部，猪腹部脂肪组织很多",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "猪的腹部，猪腹部脂肪组织很多",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很棒",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "好吃好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "太棒了",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3539977851,698140161&fm=26&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3539977851,698140161&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "排骨蔬菜套餐",
+          "price": 50,
+          "oldPrice": "80",
+          "description": "精选上等排骨和蔬菜",
+          "sellCount": 3,
+          "rating": 100,
+          "info": "精选上等排骨和蔬菜",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很新鲜",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584348902104&di=e41169be1ee155f6e6954ec93cf9d029&imgtype=0&src=http%3A%2F%2F8269809.s21i-8.faiusr.com%2F2%2FABUIABACGAAgoZ_dtQUoh6bWqAMwgAg4sAY.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584348902104&di=e41169be1ee155f6e6954ec93cf9d029&imgtype=0&src=http%3A%2F%2F8269809.s21i-8.faiusr.com%2F2%2FABUIABACGAAgoZ_dtQUoh6bWqAMwgAg4sAY.jpg"
+        }
+      ]
+    },
+    {
+      "name": "折扣",
+      "icon": "https://fuss10.elemecdn.com/0/6a/05b267f338acfeb8bd682d16e836dpng.png",
+      "foods": [
+        {
+          "name": "瘦肉蔬菜套餐",
+          "price": 80,
+          "oldPrice": "100",
+          "description": "精选上等瘦肉和蔬菜",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "精选上等瘦肉和蔬菜",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1557430832,2062402571&fm=26&gp=0.jpg",
+          "image": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1557430832,2062402571&fm=26&gp=0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "新鲜蔬菜",
+      "foods": [
+        {
+          "name": "大白菜",
+          "price": 5,
+          "oldPrice": 8,
+          "description": "白菜是一种营养极其丰富的大众化蔬菜，也是人体所需微量元素的宝库",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "白菜是一种营养极其丰富的大众化蔬菜，也是人体所需微量元素的宝库",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "白菜很新鲜",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2454699556,1645943563&fm=26&gp=0.jpg",
+          "image": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2454699556,1645943563&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "包菜",
+          "price": 14,
+          "oldPrice": 36,
+          "description": "中国东北地区俗称“大头菜”，云南俗称“莲花白”",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "中国东北地区俗称“大头菜”，云南俗称“莲花白”",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "包菜很好吃，下次还来买",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584347553792&di=df41e99b9928cfe255e61067121d1a1a&imgtype=0&src=http%3A%2F%2Fimage.suning.cn%2Fuimg%2Fsop%2Fcommodity%2F161316206192523466340070_x.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584347553792&di=df41e99b9928cfe255e61067121d1a1a&imgtype=0&src=http%3A%2F%2Fimage.suning.cn%2Fuimg%2Fsop%2Fcommodity%2F161316206192523466340070_x.jpg"
+        },
+        {
+          "name": "花椰菜",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "花椰菜是一种很受人们欢迎的蔬菜，味道鲜美，营养也很高",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "花椰菜是一种很受人们欢迎的蔬菜，味道鲜美，营养也很高",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "花椰菜是一种很受人们欢迎的蔬菜，味道鲜美，营养也很高",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "花椰菜是一种很受人们欢迎的蔬菜，味道鲜美，营养也很高",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=750315494,503546840&fm=26&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=750315494,503546840&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "西蓝花",
+          "price": 10,
+          "oldPrice": "",
+          "description": "西蓝花的平均营养价值及防病作用远远超出其他蔬菜，名列第一",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "西蓝花的平均营养价值及防病作用远远超出其他蔬菜，名列第一",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "西蓝花的平均营养价值及防病作用远远超出其他蔬菜，名列第一",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "西蓝花的平均营养价值及防病作用远远超出其他蔬菜，名列第一",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "西蓝花的平均营养价值及防病作用远远超出其他蔬菜，名列第一",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3528347231,1715961286&fm=26&gp=0.jpg",
+          "image": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3528347231,1715961286&fm=26&gp=0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "家常蔬菜",
+      "foods": [
+        {
+          "name": "黄瓜",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "黄瓜为中国各地夏季主要菜蔬之一",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "黄瓜为中国各地夏季主要菜蔬之一",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1169484574,1197352642&fm=26&gp=0.jpg",
+          "image": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1169484574,1197352642&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "白萝卜",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "萝卜含有木质素，能提高巨噬细胞的活力，吞噬癌细胞",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "萝卜含有木质素，能提高巨噬细胞的活力，吞噬癌细胞",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1212264499,2433977834&fm=26&gp=0.jpg",
+          "image": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1212264499,2433977834&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "胡萝卜",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "胡萝卜的营养成分极为丰富",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "胡萝卜的营养成分极为丰富",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=347502314,1267882636&fm=11&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=347502314,1267882636&fm=11&gp=0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "新鲜肉类",
+      "foods": [
+        {
+          "name": "五花肉",
+          "price": 30,
+          "oldPrice": "40",
+          "description": "猪的腹部，猪腹部脂肪组织很多",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "猪的腹部，猪腹部脂肪组织很多",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很棒",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "好吃好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "太棒了",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3539977851,698140161&fm=26&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3539977851,698140161&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "瘦肉",
+          "price": 25,
+          "oldPrice": "",
+          "description": "瘦肉指猪等家畜身上富含蛋白质的肉",
+          "sellCount": 28,
+          "rating": 100,
+          "info": "瘦肉指猪等家畜身上富含蛋白质的肉",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很新鲜",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很新鲜很新鲜",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "很新鲜很新鲜很新鲜",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1749075155,2785021780&fm=26&gp=0.jpg",
+          "image": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1749075155,2785021780&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "排骨",
+          "price": 25,
+          "oldPrice": "",
+          "description": "猪的肋骨和脊椎骨，是烹饪菜肴的一种代加工的食材",
+          "sellCount": 28,
+          "rating": 100,
+          "info": "猪的肋骨和脊椎骨，是烹饪菜肴的一种代加工的食材",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很新鲜",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很新鲜很新鲜",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "很新鲜很新鲜很新鲜",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3315177776,3591329147&fm=26&gp=0.jpg",
+          "image": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3315177776,3591329147&fm=26&gp=0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "精选套餐",
+      "foods": [
+        {
+          "name": "排骨蔬菜套餐",
+          "price": 50,
+          "oldPrice": "80",
+          "description": "精选上等排骨和蔬菜",
+          "sellCount": 3,
+          "rating": 100,
+          "info": "精选上等排骨和蔬菜",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很新鲜",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584348902104&di=e41169be1ee155f6e6954ec93cf9d029&imgtype=0&src=http%3A%2F%2F8269809.s21i-8.faiusr.com%2F2%2FABUIABACGAAgoZ_dtQUoh6bWqAMwgAg4sAY.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584348902104&di=e41169be1ee155f6e6954ec93cf9d029&imgtype=0&src=http%3A%2F%2F8269809.s21i-8.faiusr.com%2F2%2FABUIABACGAAgoZ_dtQUoh6bWqAMwgAg4sAY.jpg"
+        },
+        {
+          "name": "瘦肉蔬菜套餐",
+          "price": 80,
+          "oldPrice": "100",
+          "description": "精选上等瘦肉和蔬菜",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "精选上等瘦肉和蔬菜",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1557430832,2062402571&fm=26&gp=0.jpg",
+          "image": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1557430832,2062402571&fm=26&gp=0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "果拼果汁",
+      "foods": [
+        {
+          "name": "蜜瓜圣女萝莉杯",
+          "price": 6,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1,
+          "rating": "",
+          "info": "",
+          "ratings": [],
+          "icon": "http://fuss10.elemecdn.com/b/5f/b3b04c259d5ec9fa52e1856ee50dajpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/b/5f/b3b04c259d5ec9fa52e1856ee50dajpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "加多宝",
+          "price": 6,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 7,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "好喝",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很好喝",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "清火，很棒",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/b/9f/5e6c99c593cf65229225c5661bcdejpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/b/9f/5e6c99c593cf65229225c5661bcdejpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "VC无限橙果汁",
+          "price": 8,
+          "oldPrice": 10,
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/750/h/750"
+        }
+      ]
+    },
+    {
+      "name": "家庭日用",
+      "foods": [
+        {
+          "name": "卷纸",
+          "price": 14,
+          "oldPrice": "",
+          "description": "家庭纸巾，方便快捷",
+          "sellCount": 188,
+          "rating": 96,
+          "info": "家庭纸巾，方便快捷",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "擦着很舒服",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "纸巾很厚",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "很好",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2924936305,2965443433&fm=26&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2924936305,2965443433&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "洗发水",
+          "price": 10,
+          "oldPrice": "",
+          "description": "用于洗净附着在头皮和头发上的人体分泌物",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "用于洗净附着在头皮和头发上的人体分泌物",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "很好用",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "很香",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584349753756&di=26ba88e0db215ad5a16ab1a00fe01ffc&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fblog%2F201503%2F17%2F20150317194512_yrmwa.jpeg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584349753756&di=26ba88e0db215ad5a16ab1a00fe01ffc&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fblog%2F201503%2F17%2F20150317194512_yrmwa.jpeg"
+        },
+        {
+          "name": "护发素",
+          "price": 14,
+          "oldPrice": "",
+          "description": "使缠结的头发顺服，易于梳理",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "使缠结的头发顺服，易于梳理",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "很不好用",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很好",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3131382376,868324880&fm=26&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3131382376,868324880&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "沐浴露",
+          "price": 17,
+          "oldPrice": "",
+          "description": "取代传统清洁肥皂的触感和功效",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "取代传统清洁肥皂的触感和功效",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不好用",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很香，可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "很香，可以很香，可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584349983034&di=7d4b1e520db6014618cb57301e26e242&imgtype=jpg&src=http%3A%2F%2Fimg2.imgtn.bdimg.com%2Fit%2Fu%3D3333801992%2C433630776%26fm%3D214%26gp%3D0.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584349983034&di=7d4b1e520db6014618cb57301e26e242&imgtype=jpg&src=http%3A%2F%2Fimg2.imgtn.bdimg.com%2Fit%2Fu%3D3333801992%2C433630776%26fm%3D214%26gp%3D0.jpg"
+        },
+        {
+          "name": "洗手液",
+          "price": 10,
+          "oldPrice": "",
+          "description": "清洁手部为主的护肤清洁液",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "清洁手部为主的护肤清洁液",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "洗的很干净",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "洗的很干净洗的很干净",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "洗的很干净洗的很干净",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2804285033,1574142800&fm=26&gp=0.jpg",
+          "image": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2804285033,1574142800&fm=26&gp=0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "特色零食",
+      "foods": [
+        {
+          "name": "薯片200g",
+          "price": 8,
+          "oldPrice": "",
+          "description": "由马铃薯（土豆）制成的零食",
+          "sellCount": 229,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢的薯片",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "真难吃，下次不会再买了",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1905342320,3247628449&fm=26&gp=0.jpg",
+          "image": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1905342320,3247628449&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "可口可乐",
+          "price": 5,
+          "oldPrice": "",
+          "description": "肥宅最爱的肥宅快乐水，来嘛一起成为肥宅吧",
+          "sellCount": 91,
+          "rating": 100,
+          "info": "肥宅最爱的肥宅快乐水，来嘛一起成为肥宅吧",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我是肥宅，我喜欢",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "太棒了",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "NICE",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584350683609&di=49e5caee5828944467b549085cf024f8&imgtype=0&src=http%3A%2F%2Fimage5.suning.cn%2Fb2c%2Fcatentries%2F000000000108480194_5_800x800.jpg",
+          "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584350683609&di=49e5caee5828944467b549085cf024f8&imgtype=0&src=http%3A%2F%2Fimage5.suning.cn%2Fb2c%2Fcatentries%2F000000000108480194_5_800x800.jpg"
+        },
+        {
+          "name": "雪碧",
+          "price": 5,
+          "oldPrice": "",
+          "description": "柠檬味的气泡水",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "柠檬味的气泡水",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "好喝，很喜欢",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "好喝，很喜欢",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "好喝，很喜欢",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3886547007,190351892&fm=26&gp=0.jpg",
+          "image": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3886547007,190351892&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "旺旺仙贝",
+          "price": 20,
+          "oldPrice": "",
+          "description": "很好吃的膨化食品，小孩子都爱吃",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "很好吃的膨化食品，小孩子都爱吃",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "爱吃爱吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "爱吃爱吃爱吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "爱吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=952460728,403371359&fm=26&gp=0.jpg",
+          "image": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=952460728,403371359&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "娃哈哈",
+          "price": 8,
+          "oldPrice": "",
+          "description": "儿时的回忆，小时候最爱喝了",
+          "sellCount": 56,
+          "rating": 100,
+          "info": "儿时的回忆，小时候最爱喝了",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "儿时的回忆，小时候最爱喝了",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "儿时的回忆，小时候最爱喝了"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "儿时的回忆，小时候最爱喝了",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1233450211,963746099&fm=26&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1233450211,963746099&fm=26&gp=0.jpg"
+        },
+        {
+          "name": "酸奶",
+          "price": 30,
+          "oldPrice": "",
+          "description": "经过巴氏杀菌后再向牛奶中添加有益菌，发酵而成",
+          "sellCount": 33,
+          "rating": 100,
+          "info": "经过巴氏杀菌后再向牛奶中添加有益菌，发酵而成",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "好喝",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "好喝好喝",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "好喝好喝",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1444099839,3659048531&fm=26&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1444099839,3659048531&fm=26&gp=0.jpg"
+        }
+      ]
+    }
+  ],
+  "assess": [
+    {
+      "username": "3******c",
+      "rateTime": 1583997672067,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "不错,蔬菜和肉很新鲜,我经常买这一家,非常赞,以后也会常来买,强烈推荐.",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": [
+        "大白菜",
+        "包菜",
+        "五花肉",
+        "瘦肉",
+        "排骨蔬菜套餐",
+        "武汉加油！"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1583997682067,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "服务态度不错",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": [
+        "黄瓜",
+        "武汉加油！"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1583998672067,
+      "score": 3,
+      "rateType": 1,
+      "text": "蔬菜都烂了，下次不会买了",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1583998572088,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心超市",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1583270672067,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1582270672067,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "送货速度蜗牛一样，真慢！",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1582440672067,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "很喜欢的超市，下次还买",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": [
+        "瘦肉蔬菜套餐",
+        "可乐",
+        "薯片"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1582371672067,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "肉的量给的还可以",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": [
+        "瘦肉",
+        "排骨"
+      ]
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1582170672067,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "肉都不新鲜，都不敢给孩子吃",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": [
+        "瘦肉"
+      ]
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1572270672067,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "孩子喜欢吃这家的肉",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": [
+        "排骨蔬菜套餐"
+      ]
+    },
+    {
+      "username": "3******3",
+      "rateTime": 1562270672067,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "蔬菜挺新鲜的",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": []
+    },
+    {
+      "username": "t******b",
+      "rateTime": 1552270672067,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "种类太少了吧，下次不会来了",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": [
+        "大白菜"
+      ]
+    },
+    {
+      "username": "f******c",
+      "rateTime": 1542270672067,
+      "deliveryTime": 15,
+      "score": 5,
+      "rateType": 0,
+      "text": "送货速度很快，赞！",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": []
+    },
+    {
+      "username": "k******3",
+      "rateTime": 1532270672067,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": []
+    },
+    {
+      "username": "u******b",
+      "rateTime": 1522970675067,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "下雨天给配送小哥点个赞",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": []
+    },
+    {
+      "username": "s******c",
+      "rateTime": 1522270682067,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "好！！！",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": []
+    },
+    {
+      "username": "z******3",
+      "rateTime": 1512271672067,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "配送小哥很nice，很贴心，东西也很新鲜，棒！",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": [
+        "西蓝花",
+        "五花肉"
+      ]
+    },
+    {
+      "username": "n******b",
+      "rateTime": 1512273672067,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "发票开的不对",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": []
+    },
+    {
+      "username": "m******c",
+      "rateTime": 1512266672067,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "套餐很实惠！",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": [
+        "排骨蔬菜套餐"
+      ]
+    },
+    {
+      "username": "l******3",
+      "rateTime": 1502770672067,
+      "deliveryTime": 40,
+      "score": 5,
+      "rateType": 0,
+      "text": "还不错吧",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": []
+    },
+    {
+      "username": "3******o",
+      "rateTime": 1498870672067,
+      "deliveryTime": "",
+      "score": 2,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": []
+    },
+    {
+      "username": "3******p",
+      "rateTime": 1492270679967,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "菜真的很新鲜，配送也很快，武汉加油！",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": []
+    },
+    {
+      "username": "o******k",
+      "rateTime": 1482272672067,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "武汉加油！武汉加油！",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": [
+        "武汉加油！"
+      ]
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1472270672067,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "武汉加油！武汉加油！",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommends": [
+        "武汉加油！"
+      ]
+    }
+  ]
+}

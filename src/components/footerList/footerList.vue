@@ -1,6 +1,6 @@
 <template>
     <div class="footer_list">
-      <a href="javascript:;" class="list_item" :class="{on: '/home' === $route.path}" @click="goTo('/home')">
+      <a to="/home" href="javascript:;" class="list_item" :class="{on: '/home' === $route.path}" @click="goTo('/home')">
         <span class="iconfont icon-dianpu1"></span>
         <span class="fontname">商店</span>
       </a>
